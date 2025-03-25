@@ -1,4 +1,4 @@
-CONCLUSION
+CONCLUSIÓN
 
 El uso de variables aleatorias en simulaciones es esencial para modelar sistemas que involucran incertidumbre y comportamientos impredecibles, como los tiempos de servicio, tiempos de inactividad y otros procesos estocásticos. 
 Las variables aleatorias permiten representar la variabilidad inherente a estos sistemas, lo que facilita la creación de modelos más realistas y ajustados a la realidad. 
