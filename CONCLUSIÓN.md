@@ -13,4 +13,4 @@ De igual manera, al modelar los tiempos de inactividad, las simulaciones ayudan 
 Además, las simulaciones basadas en variables aleatorias permiten hacer análisis de sensibilidad, es decir, examinar cómo pequeños cambios en los parámetros del sistema afectan el comportamiento general. 
 Esto es invaluable cuando se diseñan sistemas robustos y flexibles que pueden adaptarse a diversas condiciones cambiantes.
 En resumen, el uso de simulaciones con variables aleatorias no solo mejora la precisión de los modelos al incorporar la aleatoriedad inherente a muchos sistemas, sino que también optimiza los procesos de toma de decisiones en un entorno incierto. 
-Las herramientas como Python y los entornos interactivos proporcionan un medio eficiente y accesible para realizar estas simulaciones y obtener resultados útiles que faciliten la mejora continua de los sistemas estudiados
+Las herramientas como Python y los entornos interactivos proporcionan un medio eficiente y accesible para realizar estas simulaciones y obtener resultados útiles que faciliten la mejora continua de los sistemas estudiados.
